@@ -1,0 +1,26 @@
+Lutador:
+- nome : Caractere
+- nacionalidadde : Caractere
+- idade : Inteiro
+- altura : Real
+- peso : Real
+- categoria : Caractere
+- vitorias : Inteiro
+- derrotas : Inteiro
+- empates : inteiro
+
++ apresentar()
++ status()
++ ganhaLuta()
++ perdeLuta ()
++ empatarLuta()
+
+Metodos especiais:
+nome = nome
+na = nacionalidade
+id = idade
+al = altura
+pe = peso
+vi = vitorias
+de = derrotas
+em = empates

@@ -1,0 +1,41 @@
+CONTA BANCO
++publico
+-privado
+#protegido
+
++ numConta
+# tipo
+- dono
+- saldo
+- status
+
+Atributos (funções)
++ abrirConta()
++ fecharConta()
++ depositar()
++ saca()
++ PagarMensal()
+
+getnumConta()
+setnumConta()
+getTipo()
+setTipo()
+getDono()
+setDono()
+getSaldo()
+setSaldo()
+
+
+Algoritimo:
+publico numConta: inteiro
+protegido tipo: Caractere
+privado dono: Caractere
+privado saldo: Real
+privado status: Logico
+
+//Metodos
+publico Metodo abrirConta(){}
+publico Metodo fecharConta(){}
+publico Metodo depositar(){}
+publico Metodo saca(){}
+publico Metodo paraMensal(){}
